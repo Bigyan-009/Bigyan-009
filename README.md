@@ -1,7 +1,8 @@
 # Hey, I'm Bigyan Dahal
 
 ### Backend Developer | JavaScript | MongoDB | Python | Agentic AI
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+backend+systems+with+JavaScript;Working+with+MongoDB+and+Python;Exploring+Agentic+AI+and+AI+Agents;Learning+LangChain+and+LangGraph" />
+</div>
 I am a backend-focused developer who enjoys building practical, clean, and scalable applications. My main interests are backend development, database systems, Python automation, and Agentic AI. I like creating systems that solve real problems, from APIs and dashboards to intelligent AI-powered workflows.
 
 ---
